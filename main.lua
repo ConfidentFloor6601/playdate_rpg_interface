@@ -152,7 +152,7 @@ function love.load()
   -- Playdate screen should be 400x240. 
   -- Might add magnification factor for pixel doubling on PC
   love.window.setMode(Scr_W,Scr_H,{resizable=false})
-  love.window.setTitle("Grindark: Shattered World")
+  love.window.setTitle("Your Game Title Here")
 end
 
 
